@@ -1,7 +1,6 @@
 //{{NO_DEPENDENCIES}}
-// Microsoft Visual C++ generated include file.
-// Used by 1_work.rc
-
+// Включаемый файл, созданный в Microsoft Visual C++.
+// Используется 01.11.2022 1_work desktop.rc
 #define IDS_APP_TITLE			103
 
 #define IDR_MAINFRAME			128
@@ -16,7 +15,7 @@
 #ifndef IDC_STATIC
 #define IDC_STATIC				-1
 #endif
-// Next default values for new objects
+// Следующие стандартные значения для новых объектов
 //
 #ifdef APSTUDIO_INVOKED
 #ifndef APSTUDIO_READONLY_SYMBOLS
